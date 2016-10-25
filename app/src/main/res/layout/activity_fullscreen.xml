@@ -47,6 +47,18 @@
             android:layout_width="204dp"
             android:layout_height="wrap_content"
             android:id="@+id/button" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView" />
+
+        <RadioButton
+            android:text="RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButton" />
     </FrameLayout>
 
 </FrameLayout>
